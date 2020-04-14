@@ -1,0 +1,3 @@
+print("Nombre: ")
+nombre = input()
+print("Hola",nombre, "!")
